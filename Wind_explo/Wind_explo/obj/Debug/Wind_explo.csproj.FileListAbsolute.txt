@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Wind_explo\Wind_explo\bin\Debug\Wind_explo.exe.config
+C:\Users\USER\source\repos\Wind_explo\Wind_explo\bin\Debug\Wind_explo.exe
+C:\Users\USER\source\repos\Wind_explo\Wind_explo\bin\Debug\Wind_explo.pdb
+C:\Users\USER\source\repos\Wind_explo\Wind_explo\obj\Debug\Wind_explo.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Wind_explo\Wind_explo\obj\Debug\Wind_explo.Form1.resources
+C:\Users\USER\source\repos\Wind_explo\Wind_explo\obj\Debug\Wind_explo.Properties.Resources.resources
+C:\Users\USER\source\repos\Wind_explo\Wind_explo\obj\Debug\Wind_explo.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Wind_explo\Wind_explo\obj\Debug\Wind_explo.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Wind_explo\Wind_explo\obj\Debug\Wind_explo.exe
+C:\Users\USER\source\repos\Wind_explo\Wind_explo\obj\Debug\Wind_explo.pdb
