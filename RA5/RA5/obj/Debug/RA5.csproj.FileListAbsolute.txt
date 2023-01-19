@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\RA5\RA5\bin\Debug\RA5.exe.config
+C:\Users\USER\source\repos\RA5\RA5\bin\Debug\RA5.exe
+C:\Users\USER\source\repos\RA5\RA5\bin\Debug\RA5.pdb
+C:\Users\USER\source\repos\RA5\RA5\obj\Debug\RA5.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\RA5\RA5\obj\Debug\RA5.Form1.resources
+C:\Users\USER\source\repos\RA5\RA5\obj\Debug\RA5.Properties.Resources.resources
+C:\Users\USER\source\repos\RA5\RA5\obj\Debug\RA5.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\RA5\RA5\obj\Debug\RA5.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\RA5\RA5\obj\Debug\RA5.exe
+C:\Users\USER\source\repos\RA5\RA5\obj\Debug\RA5.pdb

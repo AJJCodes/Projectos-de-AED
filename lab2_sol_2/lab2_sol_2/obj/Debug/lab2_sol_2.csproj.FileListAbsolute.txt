@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\lab2_sol_2\lab2_sol_2\bin\Debug\lab2_sol_2.exe.config
+C:\Users\USER\source\repos\lab2_sol_2\lab2_sol_2\bin\Debug\lab2_sol_2.exe
+C:\Users\USER\source\repos\lab2_sol_2\lab2_sol_2\bin\Debug\lab2_sol_2.pdb
+C:\Users\USER\source\repos\lab2_sol_2\lab2_sol_2\obj\Debug\lab2_sol_2.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\lab2_sol_2\lab2_sol_2\obj\Debug\lab2_sol_2.Form1.resources
+C:\Users\USER\source\repos\lab2_sol_2\lab2_sol_2\obj\Debug\lab2_sol_2.Properties.Resources.resources
+C:\Users\USER\source\repos\lab2_sol_2\lab2_sol_2\obj\Debug\lab2_sol_2.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\lab2_sol_2\lab2_sol_2\obj\Debug\lab2_sol_2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\lab2_sol_2\lab2_sol_2\obj\Debug\lab2_sol_2.exe
+C:\Users\USER\source\repos\lab2_sol_2\lab2_sol_2\obj\Debug\lab2_sol_2.pdb

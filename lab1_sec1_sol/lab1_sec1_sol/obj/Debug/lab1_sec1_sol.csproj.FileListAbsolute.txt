@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\lab1_sec1_sol\lab1_sec1_sol\obj\Debug\lab1_sec1_sol.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\lab1_sec1_sol\lab1_sec1_sol\obj\Debug\lab1_sec1_sol.Form1.resources
+C:\Users\USER\source\repos\lab1_sec1_sol\lab1_sec1_sol\obj\Debug\lab1_sec1_sol.Properties.Resources.resources
+C:\Users\USER\source\repos\lab1_sec1_sol\lab1_sec1_sol\obj\Debug\lab1_sec1_sol.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\lab1_sec1_sol\lab1_sec1_sol\obj\Debug\lab1_sec1_sol.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\lab1_sec1_sol\lab1_sec1_sol\bin\Debug\lab1_sec1_sol.exe.config
+C:\Users\USER\source\repos\lab1_sec1_sol\lab1_sec1_sol\bin\Debug\lab1_sec1_sol.exe
+C:\Users\USER\source\repos\lab1_sec1_sol\lab1_sec1_sol\bin\Debug\lab1_sec1_sol.pdb
+C:\Users\USER\source\repos\lab1_sec1_sol\lab1_sec1_sol\obj\Debug\lab1_sec1_sol.exe
+C:\Users\USER\source\repos\lab1_sec1_sol\lab1_sec1_sol\obj\Debug\lab1_sec1_sol.pdb
