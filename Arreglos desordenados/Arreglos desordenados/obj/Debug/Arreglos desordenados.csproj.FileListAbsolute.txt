@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Arreglos desordenados\Arreglos desordenados\bin\Debug\Arreglos desordenados.exe.config
+C:\Users\USER\source\repos\Arreglos desordenados\Arreglos desordenados\bin\Debug\Arreglos desordenados.exe
+C:\Users\USER\source\repos\Arreglos desordenados\Arreglos desordenados\bin\Debug\Arreglos desordenados.pdb
+C:\Users\USER\source\repos\Arreglos desordenados\Arreglos desordenados\obj\Debug\Arreglos desordenados.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Arreglos desordenados\Arreglos desordenados\obj\Debug\Arreglos_desordenados.Form1.resources
+C:\Users\USER\source\repos\Arreglos desordenados\Arreglos desordenados\obj\Debug\Arreglos_desordenados.Properties.Resources.resources
+C:\Users\USER\source\repos\Arreglos desordenados\Arreglos desordenados\obj\Debug\Arreglos desordenados.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Arreglos desordenados\Arreglos desordenados\obj\Debug\Arreglos desordenados.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Arreglos desordenados\Arreglos desordenados\obj\Debug\Arreglos desordenados.exe
+C:\Users\USER\source\repos\Arreglos desordenados\Arreglos desordenados\obj\Debug\Arreglos desordenados.pdb

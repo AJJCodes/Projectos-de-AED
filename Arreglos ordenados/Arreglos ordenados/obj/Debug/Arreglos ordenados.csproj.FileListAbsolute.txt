@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Arreglos ordenados\Arreglos ordenados\bin\Debug\Arreglos ordenados.exe.config
+C:\Users\USER\source\repos\Arreglos ordenados\Arreglos ordenados\bin\Debug\Arreglos ordenados.exe
+C:\Users\USER\source\repos\Arreglos ordenados\Arreglos ordenados\bin\Debug\Arreglos ordenados.pdb
+C:\Users\USER\source\repos\Arreglos ordenados\Arreglos ordenados\obj\Debug\Arreglos ordenados.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Arreglos ordenados\Arreglos ordenados\obj\Debug\Arreglos_ordenados.Form1.resources
+C:\Users\USER\source\repos\Arreglos ordenados\Arreglos ordenados\obj\Debug\Arreglos_ordenados.Properties.Resources.resources
+C:\Users\USER\source\repos\Arreglos ordenados\Arreglos ordenados\obj\Debug\Arreglos ordenados.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Arreglos ordenados\Arreglos ordenados\obj\Debug\Arreglos ordenados.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Arreglos ordenados\Arreglos ordenados\obj\Debug\Arreglos ordenados.exe
+C:\Users\USER\source\repos\Arreglos ordenados\Arreglos ordenados\obj\Debug\Arreglos ordenados.pdb
